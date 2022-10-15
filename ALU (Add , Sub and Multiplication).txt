@@ -1,0 +1,4 @@
+At many times ,
+there are problems(in logisim) because of complexness of the circuit (Final)  
+So , I designed amore simple circuit by using 16 bit 
+(full adder , subtractor and multiplier ) which are existed in logisim (Final lite)
